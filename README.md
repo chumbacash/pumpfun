@@ -18,3 +18,11 @@ This Python script connects to the PumpPortal WebSocket API (`wss://pumpportal.f
 1. **Install dependencies:**
    ```bash
    pip install websocket-client
+
+2. **Run the script:**
+   ```bash
+   python fun.py
+
+🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷
+💦💦The script was created by chumbacash💦💦
+🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆
